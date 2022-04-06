@@ -14,8 +14,6 @@ public class counter {
 		}
 		
 		scanner.close();
-		
-		//added a comment
 
 	}
 
