@@ -3,6 +3,7 @@
 	<name>BIT504</name>
 	<comment></comment>
 	<projects>
+		<project>Workspace</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
